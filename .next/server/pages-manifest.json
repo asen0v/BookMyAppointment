@@ -1,0 +1,10 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.js",
+  "/team/manage-appointments": "pages/team/manage-appointments.js",
+  "/team/business-details": "pages/team/business-details.js",
+  "/team": "pages/team.js",
+  "/team/availability": "pages/team/availability.js"
+}
