@@ -35,7 +35,7 @@
 
 Or Clone the repository: 
 
-git clone https://github.com/Xname/bookmyappointment.git cd bookmyappointment
+git clone [https://github.com/Xname/bookmyappointment.git](https://github.com/asen0v/BookMyAppointment.git) cd bookmyappointment
 
 1. **Unzip the file:** 
 - Unzip the provided file to access the project directory. 
@@ -43,7 +43,7 @@ git clone https://github.com/Xname/bookmyappointment.git cd bookmyappointment
 
 ![](https://i.ibb.co/42NSc2s/Aspose-Words-7115f250-02b2-41d8-b451-7df2d713d30e-001.png)
 
-**Or Clone the repository**:    (when the finished project  will be uploaded on GitHub ) git clone https://github.com/Xname/bookmyappointment.git cd bookmyappoi ntment
+**Or Clone the repository**:    (when the finished project  will be uploaded on GitHub ) git clone [https://github.com/Xname/bookmyappointment.git](https://github.com/asen0v/BookMyAppointment.git) cd bookmyappoi ntment
 
 3. **Install dependencies:** 
 
